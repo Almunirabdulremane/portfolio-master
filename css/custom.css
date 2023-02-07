@@ -1,0 +1,24 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+/* FORMATACAO DA LOGO NO INDEX */
+.logom{
+    width: 100px;
+}
+
+/* Formatacao da imagem na area Sobre mim */
+.imageSobre{
+    width: 330px;
+    filter: contrast(2);
+}
+
+/* Formatacao da imagem do banner principal */
+.main-banner{
+    opacity: 0.4;
+}
+
+/* Links menu superior pagina principal */
+.navbar .nav-item .nav-link{
+    color: #249;
+    font-size: 18px;
+}
